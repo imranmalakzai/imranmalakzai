@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+ImranMalakzai..;Full-Stack+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Imran+Malakzai..;Full-Stack+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
   </a>
 </h1>
 
@@ -121,11 +121,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40&hide_border=true&include_all_commits=true&count_private=true&layout=pie)
 
-  <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight"/>
+  <a href="https://github.com/imranmalakzai"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nasratullah-Shafiq&theme=tokyonight"/>
 
-<a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40"/>
-<a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40"/>
-![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nasratullah-Shafiq&theme=tokyonight)
+<a href="https://github.com/imranmalakzai"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40"/>
+<a href="https://github.com/imranmalakzai"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40"/>
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranmalakzai-Shafiq&theme=tokyonight)
 <a href="https://github.com/Nasratullah-Shafiq"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nasratullah-Shafiq&theme=tokyonight&utcOffset=4"/>
 
 <figure><embed src="https://wakatime.com/share/@Nasratullah-Shafiq/106fb23c-f2e4-4ac4-b789-c2c870124cf1.svg"></embed></figure>
